@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Trading Bot",
+  "description": "An interactive cryptocurrency algo-trading simulator with real-time market feeds and Gemini AI trend advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
